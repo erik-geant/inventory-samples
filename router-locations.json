@@ -1,0 +1,483 @@
+[
+    {
+        "equipment name": "mx2.zag.hr.geant.net",
+        "pop": {
+            "abbreviation": "zag",
+            "city": "Zagreb",
+            "country": "Crotia",
+            "country code": "HR",
+            "latitude": 45.792030555556,
+            "longitude": 15.969494444444,
+            "name": "Zagreb"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.am.office.geant.net",
+        "pop": {
+            "abbreviation": "am",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "country code": "NL",
+            "latitude": 52.313305555556,
+            "longitude": 4.9491111111111,
+            "name": "Amsterdam GEANT Office"
+        },
+        "type": "INTERNAL"
+    },
+    {
+        "equipment name": "mx2.bra.sk.geant.net",
+        "pop": {
+            "abbreviation": "bra",
+            "city": "Bratislava",
+            "country": "Slovakia",
+            "country code": "SK",
+            "latitude": 48.119027777778,
+            "longitude": 17.0957,
+            "name": "Bratislava"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx2.kau.lt.geant.net",
+        "pop": {
+            "abbreviation": "kau",
+            "city": "Kaunas",
+            "country": "Lithuania",
+            "country code": "LT",
+            "latitude": 54.940672222222,
+            "longitude": 24.018013888889,
+            "name": "Kaunas"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.ath2.gr.geant.net",
+        "pop": {
+            "abbreviation": "ath2",
+            "city": "Attiki",
+            "country": "Greece",
+            "country code": "GR",
+            "latitude": 37.98,
+            "longitude": 23.73,
+            "name": "Athens 2"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.ams.nl.geant.net",
+        "pop": {
+            "abbreviation": "ams",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "country code": "NL",
+            "latitude": 52.356363888889,
+            "longitude": 4.9529555555556,
+            "name": "Amsterdam"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx2.bru.be.geant.net",
+        "pop": {
+            "abbreviation": "bru",
+            "city": "Brussels",
+            "country": "Belgium",
+            "country code": "BE",
+            "latitude": 50.857002777778,
+            "longitude": 4.4115694444444,
+            "name": "Brussels"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.gen.ch.geant.net",
+        "pop": {
+            "abbreviation": "gen",
+            "city": "Geneva",
+            "country": "Switzerland",
+            "country code": "CH",
+            "latitude": 46.232194444444,
+            "longitude": 6.0457638888889,
+            "name": "Geneva"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "sw3.am.office.geant.net",
+        "pop": {
+            "abbreviation": "am",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "country code": "NL",
+            "latitude": 52.313305555556,
+            "longitude": 4.9491111111111,
+            "name": "Amsterdam GEANT Office"
+        },
+        "type": "INTERNAL"
+    },
+    {
+        "equipment name": "mx1.ham.de.geant.net",
+        "pop": {
+            "abbreviation": "ham",
+            "city": "Hamburg",
+            "country": "Germany",
+            "country code": "DE",
+            "latitude": 53.550902777778,
+            "longitude": 10.046486111111,
+            "name": "Hamburg"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.lon.uk.geant.net",
+        "pop": {
+            "abbreviation": "lon",
+            "city": "London",
+            "country": "England",
+            "country code": "UK",
+            "latitude": 51.498652777778,
+            "longitude": -0.015805555555556,
+            "name": "London"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.dub.ie.geant.net",
+        "pop": {
+            "abbreviation": "dub",
+            "city": "Dublin",
+            "country": "Ireland",
+            "country code": "IE",
+            "latitude": 53.291980555556,
+            "longitude": -6.4147333333333,
+            "name": "Dublin (City West)"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.mar.fr.geant.net",
+        "pop": {
+            "abbreviation": "mar",
+            "city": "Marseille",
+            "country": "France",
+            "country code": "FR",
+            "latitude": 43.311027777778,
+            "longitude": 5.3738888888889,
+            "name": "Marseille"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.poz.pl.geant.net",
+        "pop": {
+            "abbreviation": "poz",
+            "city": "Poznan",
+            "country": "Poland",
+            "country code": "PL",
+            "latitude": 52.411775,
+            "longitude": 16.917561111111,
+            "name": "Poznan"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx2.rig.lv.geant.net",
+        "pop": {
+            "abbreviation": "rig",
+            "city": "Riga",
+            "country": "Latvia",
+            "country code": "LV",
+            "latitude": 56.948344444444,
+            "longitude": 24.118,
+            "name": "Riga"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.kau.lt.geant.net",
+        "pop": {
+            "abbreviation": "kau",
+            "city": "Kaunas",
+            "country": "Lithuania",
+            "country code": "LT",
+            "latitude": 54.940672222222,
+            "longitude": 24.018013888889,
+            "name": "Kaunas"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.sof.bg.geant.net",
+        "pop": {
+            "abbreviation": "sof",
+            "city": "Sofia",
+            "country": "Bulgaria",
+            "country code": "BG",
+            "latitude": 42.675758333333,
+            "longitude": 23.370986111111,
+            "name": "Sofia"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx2.lju.si.geant.net",
+        "pop": {
+            "abbreviation": "lju",
+            "city": "Ljubljana",
+            "country": "Slovenia",
+            "country code": "SI",
+            "latitude": 46.042366666667,
+            "longitude": 14.488719444444,
+            "name": "Ljubljana"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "sw2.am.office.geant.net",
+        "pop": {
+            "abbreviation": "am",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "country code": "NL",
+            "latitude": 52.313305555556,
+            "longitude": 4.9491111111111,
+            "name": "Amsterdam GEANT Office"
+        },
+        "type": "INTERNAL"
+    },
+    {
+        "equipment name": "mx1.bud.hu.geant.net",
+        "pop": {
+            "abbreviation": "bud",
+            "city": "Budapest",
+            "country": "Hungary",
+            "country code": "HU",
+            "latitude": 47.517902777778,
+            "longitude": 19.055436111111,
+            "name": "Budapest"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.fra.de.geant.net",
+        "pop": {
+            "abbreviation": "fra",
+            "city": "Frankfurt",
+            "country": "Germany",
+            "country code": "DE",
+            "latitude": 50.120294444444,
+            "longitude": 8.7358444444444,
+            "name": "Frankfurt"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.vie.at.geant.net",
+        "pop": {
+            "abbreviation": "vie",
+            "city": "Vienna",
+            "country": "Austria",
+            "country code": "AT",
+            "latitude": 48.268925,
+            "longitude": 16.410194444444,
+            "name": "Vienna"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.tal.ee.geant.net",
+        "pop": {
+            "abbreviation": "tal",
+            "city": "Tallinn",
+            "country": "Estonia",
+            "country code": "EE",
+            "latitude": 59.434825,
+            "longitude": 24.71385,
+            "name": "Tallinn"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx2.tal.ee.geant.net",
+        "pop": {
+            "abbreviation": "tal",
+            "city": "Tallinn",
+            "country": "Estonia",
+            "country code": "EE",
+            "latitude": 59.434825,
+            "longitude": 24.71385,
+            "name": "Tallinn"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.mil2.it.geant.net",
+        "pop": {
+            "abbreviation": "mil2",
+            "city": "Milan",
+            "country": "Italy",
+            "country code": "IT",
+            "latitude": 45.475522222222,
+            "longitude": 9.1033194444444,
+            "name": "Milan 2 Caldera"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.lon2.uk.geant.net",
+        "pop": {
+            "abbreviation": "lon2",
+            "city": "Slough",
+            "country": "UK",
+            "country code": "UK",
+            "latitude": 51.521986111111,
+            "longitude": 0.62331666666667,
+            "name": "London 2 (Slough)"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.mad.es.geant.net",
+        "pop": {
+            "abbreviation": "mad",
+            "city": "Alcobendas  - Madrid",
+            "country": "Spain",
+            "country code": "ES",
+            "latitude": 40.536477777778,
+            "longitude": -3.6488027777778,
+            "name": "Madrid"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx2.cbg.uk",
+        "pop": {
+            "abbreviation": "oc",
+            "city": "CAMBRIDGE",
+            "country": "UK",
+            "country code": "UK",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "name": "Cambridge OC"
+        },
+        "type": "INTERNAL"
+    },
+    {
+        "equipment name": "mx1.par.fr.geant.net",
+        "pop": {
+            "abbreviation": "par",
+            "city": "Paris",
+            "country": "France",
+            "country code": "FR",
+            "latitude": 48.904630555556,
+            "longitude": 2.3713555555556,
+            "name": "Paris"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.lis.pt.geant.net",
+        "pop": {
+            "abbreviation": "lis2",
+            "city": "Lisbon",
+            "country": "Portugal",
+            "country code": "PT",
+            "latitude": 38.759097222222,
+            "longitude": -9.1421944444444,
+            "name": "Lisbon 2"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.pra.cz.geant.net",
+        "pop": {
+            "abbreviation": "pra",
+            "city": "Prague",
+            "country": "Czech Republic",
+            "country code": "CZ",
+            "latitude": 50.101847222222,
+            "longitude": 14.391738888889,
+            "name": "Prague"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx4 - Camb Lab",
+        "pop": {
+            "abbreviation": "lab",
+            "city": "Cambridge",
+            "country": "UK",
+            "country code": "UK",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "name": "DANTE Lab"
+        },
+        "type": "INTERNAL"
+    },
+    {
+        "equipment name": "mx2.ath.gr.geant.net",
+        "pop": {
+            "abbreviation": "ath",
+            "city": "Athens",
+            "country": "Greece",
+            "country code": "GR",
+            "latitude": 37.973086111111,
+            "longitude": 23.745555555556,
+            "name": "Athens"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.dub2.ie.geant.net",
+        "pop": {
+            "abbreviation": "dub2",
+            "city": "Dublin 12",
+            "country": "Ireland",
+            "country code": "IE",
+            "latitude": 53.33425,
+            "longitude": -6.3655444444444,
+            "name": "Dublin 2 - Parkwest"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.buc.ro.geant.net",
+        "pop": {
+            "abbreviation": "buc",
+            "city": "Bucharest",
+            "country": "Romania",
+            "country code": "RO",
+            "latitude": 44.444741666667,
+            "longitude": 26.096422222222,
+            "name": "Bucharest"
+        },
+        "type": "CORE"
+    },
+    {
+        "equipment name": "mx1.cbg.uk.geant.net",
+        "pop": {
+            "abbreviation": "lab",
+            "city": "Cambridge",
+            "country": "UK",
+            "country code": "UK",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "name": "DANTE Lab"
+        },
+        "type": "INTERNAL"
+    },
+    {
+        "equipment name": "mx2.lis.pt.geant.net",
+        "pop": {
+            "abbreviation": "lis",
+            "city": "Lisbon",
+            "country": "Portugal",
+            "country code": "PT",
+            "latitude": 38.759097222222,
+            "longitude": -9.1421944444444,
+            "name": "Lisbon"
+        },
+        "type": "CORE"
+    }
+]

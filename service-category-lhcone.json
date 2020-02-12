@@ -1,0 +1,366 @@
+[
+    {
+        "description": "PHY CUSTOMER RENATER LHCONE P_ae14 SRF18064 |",
+        "interface": "et-2/0/2",
+        "router": "mx1.par.fr.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT KIAE SRF9938601 | ASN57484 |",
+        "interface": "ae16.111",
+        "router": "mx1.ams.nl.geant.net",
+        "user": "KIAE"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER PIONIER SRF9916037 | ASN 8501",
+        "interface": "ae12.111",
+        "router": "mx1.ham.de.geant.net",
+        "user": "PIONIER"
+    },
+    {
+        "description": "TUN INFRASTRUCTURE ACCESS LHCONE SRF0000001 | LHCONE routing-instance",
+        "interface": "lt-8/1/0.1112",
+        "router": "mx1.gen.ch.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER DFN AP2 SRF9923335 | ASN680 |",
+        "interface": "ae10.111",
+        "router": "mx1.ham.de.geant.net",
+        "user": "DFN"
+    },
+    {
+        "description": "SRV_GLOBAL INFRASTRUCTURE ACCESS SRF0000001 | perfSONAR MGMT LHCONE",
+        "interface": "ge-0/3/4.24",
+        "router": "mx1.gen.ch.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT SINET SRF9924293 | ASN2907 |",
+        "interface": "ae15.2511",
+        "router": "mx1.par.fr.geant.net",
+        "user": "SINET"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER NORDUNET SRF9930531 | IPV6 ASN2603 |",
+        "interface": "et-5/0/5.4005",
+        "router": "mx1.lon.uk.geant.net",
+        "user": "NORDUnet"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER REDCLARA SRF19071 | ASN27750 |",
+        "interface": "ae15.2015",
+        "router": "mx1.par.fr.geant.net",
+        "user": "CLARA"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT ESNET SRF9912224 | ASN293 |",
+        "interface": "ae15.2004",
+        "router": "mx1.par.fr.geant.net",
+        "user": "ESnet"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER GARR AP2 LHCONE SRF9912156 | ASN137 |",
+        "interface": "ae12.111",
+        "router": "mx1.gen.ch.geant.net",
+        "user": "GARR"
+    },
+    {
+        "description": "SRV_GLOBAL INFRASTRUCTURE ACCESS SRF0000001 | Test PerfSonar LHCONE - data",
+        "interface": "ge-1/2/0.111",
+        "router": "mx1.dub.ie.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT INTERNET2 SRF9912835 | ASN11537 |",
+        "interface": "ae14.2002",
+        "router": "mx1.lon2.uk.geant.net",
+        "user": "Internet2 NOC"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT ESNET SRF9912833 | ASN293 |",
+        "interface": "ae14.2013",
+        "router": "mx1.lon2.uk.geant.net",
+        "user": "GEANT SD"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER CERN LHCONE SRF9912248 | ASN513 | CERNLIGHT",
+        "interface": "ae10.111",
+        "router": "mx1.gen.ch.geant.net",
+        "user": "CERN NOC"
+    },
+    {
+        "description": "TUN INFRASTRUCTURE ACCESS LHCONE SRF0000001 | MASTER instance",
+        "interface": "lt-11/1/0.2111",
+        "router": "mx1.fra.de.geant.net"
+    },
+    {
+        "description": "TUN INFRASTRUCTURE ACCESS LHCONE SRF0000001 | LHCONE routing-instance",
+        "interface": "lt-11/1/0.1112",
+        "router": "mx1.fra.de.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER GRNET SRF9939095 | ASN 8581 |",
+        "interface": "xe-2/0/0.111",
+        "router": "mx2.ath.gr.geant.net",
+        "user": "GRNET"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER TIFR LHCONE SRF9930261 | ASN2697 | IPv6 ASN58758",
+        "interface": "xe-2/0/3.2230",
+        "router": "mx1.gen.ch.geant.net",
+        "user": "TIFR"
+    },
+    {
+        "description": "PHY CUSTOMER RENATER LHCONE SRF9943323 P_AE11 |",
+        "interface": "et-8/1/5",
+        "router": "mx1.gen.ch.geant.net"
+    },
+    {
+        "description": "SRV_GLOBAL INFRASTRUCTURE ACCESS SRF0000001 | LHCONE",
+        "interface": "ge-0/2/0.550",
+        "router": "mx1.par.fr.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER URAN LHCONE SRF9934093 | ASN12687 |",
+        "interface": "xe-4/0/6.360",
+        "router": "mx1.vie.at.geant.net",
+        "user": "URAN"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE INFRASTRUCTURE ACCESS PERFSONAR SRF0000001 | BWCTL CONTACT: ivan.garnizov@fau.de IMPLEMENTED: 20160505",
+        "interface": "xe-2/0/2.0",
+        "router": "mx1.ams.nl.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER ARNES SRF9915171 | LHCONE AP_P ASN2107",
+        "interface": "ae11.111",
+        "router": "mx2.lju.si.geant.net",
+        "user": "ARNES"
+    },
+    {
+        "description": "TUN INFRASTRUCTURE ACCESS LHCONE SRF0000001 | MASTER instance",
+        "interface": "lt-8/1/0.2111",
+        "router": "mx1.gen.ch.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER NORDUNET LHCONE SRF9930533 | IPv6 LHCONE ASN2603 |",
+        "interface": "et-3/1/2.4005",
+        "router": "mx1.ams.nl.geant.net",
+        "user": "NORDUnet"
+    },
+    {
+        "description": "LAG CUSTOMER ARNES LHCONE SRF9937515 | ARNES LHCONE AP2 LAG",
+        "interface": "ae21",
+        "router": "mx1.vie.at.geant.net",
+        "user": "ARNES"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT ESNET SRF9928633 | ASN293 | AMS-EEX-ESNET-LHCONE",
+        "interface": "et-3/1/5.111",
+        "router": "mx1.ams.nl.geant.net",
+        "user": "ESnet"
+    },
+    {
+        "description": "SRV_L3VPN RE CSTNET LHCONE SRF18112 | ASN7497",
+        "interface": "ae33.111",
+        "router": "mx1.fra.de.geant.net",
+        "user": "CNGI-6IX"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER SURFNET SRF9925791 | ASN1162 | SARA aka SURFSARA via SURFNET",
+        "interface": "ae15.112",
+        "router": "mx1.ams.nl.geant.net",
+        "user": "SURFnet"
+    },
+    {
+        "description": "LAG CUSTOMER RENATER LHCONE SRF9921603 |",
+        "interface": "ae11",
+        "router": "mx1.gen.ch.geant.net",
+        "user": "RENATER"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER JANET SRF9929001 | ASN786 |",
+        "interface": "ae10.2030",
+        "router": "mx1.lon.uk.geant.net",
+        "user": "Jisc"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER CESNET AP1 SRF9922159 | ASN2852 |",
+        "interface": "ae11.111",
+        "router": "mx1.pra.cz.geant.net",
+        "user": "CESNET NOC"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT CANARIE SRF9918801 | ASN6509 |",
+        "interface": "ae15.2200",
+        "router": "mx1.par.fr.geant.net",
+        "user": "GEANT SD"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER RENATER LHCONE SRF9927869 | ASN2200 | IPv6",
+        "interface": "ae11.116",
+        "router": "mx1.gen.ch.geant.net",
+        "user": "RENATER"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT ASGC SRF9912405 | ASN24167 |",
+        "interface": "xe-9/0/8.111",
+        "router": "mx1.ams.nl.geant.net",
+        "user": "ASGC"
+    },
+    {
+        "description": "SRV_LHCONE CUSTOMER EENET AP1 SRF19112 | ASN3221",
+        "interface": "ae10.111",
+        "router": "mx1.tal.ee.geant.net",
+        "user": "EENet"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT CANARIE SRF9915040 | ASN6509 |",
+        "interface": "et-10/3/0.4040",
+        "router": "mx1.lon.uk.geant.net",
+        "user": "CANARIE"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE TEIN SRF9939273| ASN24490 |",
+        "interface": "ae12.3200",
+        "router": "mx1.lon.uk.geant.net",
+        "user": "TEIN"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER RENATER LHCONE SRF9929041 | ASN2200 | IPv4",
+        "interface": "ae11.111",
+        "router": "mx1.gen.ch.geant.net",
+        "user": "RENATER"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT SINET SRF9946521 | ASN2907|",
+        "interface": "ae20.200",
+        "router": "mx1.ams.nl.geant.net",
+        "user": "SINET"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER GARR LHCONE AP2 SRF9923981 | ASN137 ",
+        "interface": "ae10.111",
+        "router": "mx1.mil2.it.geant.net",
+        "user": "GARR"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE AARNET SRF19073| ASN7575 |CAE1-WL065785-VL3102|",
+        "interface": "ae12.3102",
+        "router": "mx1.lon.uk.geant.net",
+        "user": "AARNET"
+    },
+    {
+        "description": "SRV_GLOBAL INFRASTRUCTURE ACCESS SRF0000001 | TEST LHCONE",
+        "interface": "ge-1/2/8.167",
+        "router": "mx1.fra.de.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER DFN AP1 LHCONE SRF9923335 | ASN680 |",
+        "interface": "ae11.111",
+        "router": "mx1.fra.de.geant.net",
+        "user": "DFN"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER PIONIER SRF9916037 | ASN 8501",
+        "interface": "ae11.111",
+        "router": "mx1.poz.pl.geant.net",
+        "user": "PIONIER"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER RENATER AP1 SRF9927867 | ASN2200 | IPv6",
+        "interface": "ae14.116",
+        "router": "mx1.par.fr.geant.net",
+        "user": "RENATER"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER RENATER AP1 SRF9926749 | ASN2200 | IPv4",
+        "interface": "ae14.111",
+        "router": "mx1.par.fr.geant.net",
+        "user": "RENATER"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER NORDUNET SRF9916085 | ASN2603 |",
+        "interface": "et-3/1/2.2013",
+        "router": "mx1.ams.nl.geant.net",
+        "user": "NORDUnet"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT ESNET SRF9928631 | ASN293 | LON-EEX-ESNET-LHCONE",
+        "interface": "et-9/0/2.111",
+        "router": "mx1.lon.uk.geant.net",
+        "user": "ESnet"
+    },
+    {
+        "description": "SRV_GLOBAL INFRASTRUCTURE ACCESS SRF0000001 | perfSONAR iDRAC LHCONE",
+        "interface": "ge-0/3/4.23",
+        "router": "mx1.gen.ch.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER NORDUNET LHCONE AP1 SRF9912439 | ASN2603 |",
+        "interface": "et-5/0/5.111",
+        "router": "mx1.lon.uk.geant.net",
+        "user": "NORDUnet"
+    },
+    {
+        "description": "LAG CUSTOMER ARNES SRF9937517 | ARNES LHCONE AP LAG",
+        "interface": "ae11",
+        "router": "mx2.lju.si.geant.net",
+        "user": "ARNES"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE RE_INTERCONNECT INTERNET2 SRF9912225 | ASN11537 |",
+        "interface": "ae15.2001",
+        "router": "mx1.par.fr.geant.net",
+        "user": "GEANT SD"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER ESNET LHCONE SRF9928635 | ASN293 | GEN-EEX-ESNET-LHCONE",
+        "interface": "et-8/0/2.111",
+        "router": "mx1.gen.ch.geant.net",
+        "user": "ESnet"
+    },
+    {
+        "description": "SRV_LHCONE CUSTOMER EENET AP2 SRF19112 | ASN3221",
+        "interface": "ae10.111",
+        "router": "mx2.tal.ee.geant.net",
+        "user": "EENet"
+    },
+    {
+        "description": "PHY CUSTOMER CERN LHCONE P_AE10 SRF9928891 | CERNLIGHT",
+        "interface": "et-1/1/5",
+        "router": "mx1.gen.ch.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN RE CSTNET LHCONE SRF9942089 | ASN23911 |",
+        "interface": "xe-0/0/1.111",
+        "router": "mx1.lon.uk.geant.net",
+        "user": "CNGI-6IX"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER ROEDUNET AP1 SRF9915845 | ASN2614 |",
+        "interface": "ae11.111",
+        "router": "mx1.buc.ro.geant.net",
+        "user": "RoEduNet"
+    },
+    {
+        "description": "SRV_L3VPN CUSTOMER ARNES LHCONE SRF9912459 | LHCONE AP_B ASN2107 |",
+        "interface": "ae21.111",
+        "router": "mx1.vie.at.geant.net",
+        "user": "ARNES"
+    },
+    {
+        "description": "SRV_L3VPN RE KREONET LHCONE SRF17072 | ASN17579 |",
+        "interface": "ae15.111",
+        "router": "mx1.ams.nl.geant.net",
+        "user": "KREONET"
+    },
+    {
+        "description": "SRV_GLOBAL INFRASTRUCTURE ACCESS SRF0000001 | TEST LHCONE PS",
+        "interface": "ge-1/2/8.166",
+        "router": "mx1.fra.de.geant.net"
+    },
+    {
+        "description": "SRV_L3VPN LHCONE CUSTOMER REDIRIS AP1 SRF9912157 | ASN766 |",
+        "interface": "ae12.111",
+        "router": "mx1.mad.es.geant.net",
+        "user": "RedIRIS"
+    }
+]

@@ -1,0 +1,52 @@
+{
+    "interface": {
+        "bundle": [],
+        "description": "SRV_GLOBAL INFRASTRUCTURE BACKBONE SRF0000001 | lis-mad",
+        "ipv4": [
+            "62.40.98.107/31"
+        ],
+        "ipv6": [
+            "2001:798:cc:2f01:1701::2/126"
+        ],
+        "name": "ae0.0"
+    },
+    "locations": [
+        {
+            "a": {
+                "abbreviation": "mad",
+                "equipment": "mx1.mad.es.geant.net",
+                "name": "Madrid"
+            },
+            "b": {
+                "abbreviation": "lis",
+                "equipment": "mx2.lis.pt.geant.net",
+                "name": "Lisbon"
+            }
+        }
+    ],
+    "services": [
+        {
+            "card_id": "ae",
+            "circuit_type": "service",
+            "equipment": "mx1.mad.es.geant.net",
+            "id": 22033,
+            "interface_name": "ae0.0",
+            "logical_unit": 0,
+            "manufacturer": "juniper",
+            "name": "LIS-MAD TRUNK",
+            "other_end_card_id": "ae",
+            "other_end_equipment": "mx2.lis.pt.geant.net",
+            "other_end_interface_name": "ae0.0",
+            "other_end_logical_unit": 0,
+            "other_end_pop_abbreviation": "lis",
+            "other_end_pop_name": "Lisbon",
+            "other_end_port": "0",
+            "pop_abbreviation": "mad",
+            "pop_name": "Madrid",
+            "port": "0",
+            "project": "GEANT2",
+            "service_type": "ip trunk",
+            "status": "operational"
+        }
+    ]
+}

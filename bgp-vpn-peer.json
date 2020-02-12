@@ -1,0 +1,27 @@
+{
+    "interfaces": [
+        {
+            "interface": {
+                "interface address": "62.40.96.31/32",
+                "interface name": "lo0.1",
+                "name": "62.40.96.31",
+                "router": "mx1.gen.ch.geant.net"
+            },
+            "services": []
+        }
+    ],
+    "locations": [
+        {
+            "a": {
+                "abbreviation": "lju",
+                "equipment": "mx2.lju.si.geant.net",
+                "name": "Ljubljana"
+            }
+        }
+    ],
+    "vpn-rr-peer-info": {
+        "description": "MD-VPN VRR Paris VPN-Proxy Geneva",
+        "name": "62.40.96.31",
+        "router": "mx2.lju.si.geant.net"
+    }
+}

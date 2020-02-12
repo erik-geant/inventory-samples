@@ -1,0 +1,249 @@
+{
+    "interface": {
+        "bundle": [],
+        "description": "LAG RE_INTERCONNECT CAE1 SRF19005",
+        "ipv4": [],
+        "ipv6": [],
+        "name": "ae12"
+    },
+    "locations": [
+        {
+            "a": {
+                "abbreviation": "lon",
+                "equipment": "mx1.lon.uk.geant.net",
+                "name": "London"
+            }
+        }
+    ],
+    "related-services": [
+        {
+            "circuit_type": "service",
+            "name": "CAE1-SINGAREN",
+            "project": "GEANT2",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "UK-TEIN3-Singapore-LHCONE",
+            "project": "LHCONE",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "UK-TEIN-Singapore",
+            "project": "GEANT2",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "AARNET LHCONE LON L3VPN",
+            "project": "LHCONE",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "UK-AARNET",
+            "project": "GEANT2",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "lon-lon_GEANTOpen_NORDUNET-SINGAREN_CAE1_19074_VL3140",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "lon-lon_GEANTOpen_NORDUNET-SINGAREN_CAE1_19074_VL3151",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "LON CAE1 DMC",
+            "project": "DMC20",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "ams-lon_GEANTOpen_SINET-SINGAREN_CAE1_19103_VL2260",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "lon-poz__GEANTOpen_SINGAREN_CAE1_19113_VL3220-PSNC",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "ams-lon_GEANTOpen_SINET-SINGAREN_CAE1_19120_VL2361",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "lon-lon_GEANTOpen_SURFNET-AARNET_CAE1_19097_VL3100",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "lon-lon_GEANT2_SingAREN-SingAREN_17085",
+            "project": "A*STAR",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "lon-lon_GEANTOpen_NORDUNET-SINGAREN_CAE1_19074_VL3140",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "lon-lon_GEANTOpen_SURFNET-AARNET_CAE1_19097_VL3100",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "ams-lon_GEANTOpen_SINET-SINGAREN_CAE1_19103_VL2260",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "lon-lon_GEANTOpen_NORDUNET-TEIN_17026",
+            "project": "GEANTOpen",
+            "status": "planned"
+        },
+        {
+            "circuit_type": "service",
+            "name": "lon-poz__GEANTOpen_SINGAREN_CAE1_19113_VL3220-PSNC",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "lon-lon_GEANTOpen_NORDUNET-SINGAREN_CAE1_19074_VL3151",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "ams-lon_GEANTOpen_SINET-SINGAREN_CAE1_19120_VL2361",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "CAE1-SINGAREN",
+            "project": "GEANT2",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "l2circuit",
+            "name": "lon-lon_GEANT2_SingAREN-SingAREN_17085 L2c",
+            "project": "GEANT2",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "LON CAE1 DMC",
+            "project": "DMC20",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "l2circuit",
+            "name": "lon-lon_GEANTOpen_NORDUNET-SINGAREN_CAE1_19074_VL3140 L2c",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "UK-TEIN-Singapore",
+            "project": "GEANT2",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "UK-TEIN3-Singapore-LHCONE",
+            "project": "LHCONE",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "l2circuit",
+            "name": "lon-lon_GEANTOpen_SURFNET-AARNET_CAE1_19097_VL3100 L2c",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "UK-AARNET",
+            "project": "GEANT2",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "l2circuit",
+            "name": "ams-lon_GEANTOpen_SINET-SINGAREN_CAE1_19103_VL2260 L2c",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "service",
+            "name": "AARNET LHCONE LON L3VPN",
+            "project": "LHCONE",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "l2circuit",
+            "name": "lon-lon_GEANTOpen_NORDUNET-TEIN_17026 L2c",
+            "project": "GEANTOpen",
+            "status": "planned"
+        },
+        {
+            "circuit_type": "l2circuit",
+            "name": "lon-poz__GEANTOpen_SINGAREN_CAE1_19113_VL3220-PSNC L2c",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "l2circuit",
+            "name": "lon-lon_GEANTOpen_NORDUNET-SINGAREN_CAE1_19074_VL3151 L2c",
+            "project": "GEANTOpen",
+            "status": "operational"
+        },
+        {
+            "circuit_type": "l2circuit",
+            "name": "ams-lon_GEANTOpen_SINET-SINGAREN_CAE1_19120_VL2361 L2c",
+            "project": "GEANTOpen",
+            "status": "operational"
+        }
+    ],
+    "services": [
+        {
+            "card_id": "ae",
+            "circuit_type": "link-aggr-group",
+            "equipment": "mx1.lon.uk.geant.net",
+            "id": 48599,
+            "interface_name": "ae12",
+            "logical_unit": "",
+            "manufacturer": "juniper",
+            "name": "LON-CAE1  LAG",
+            "other_end_card_id": "",
+            "other_end_equipment": "Singaren Router",
+            "other_end_interface_name": "",
+            "other_end_logical_unit": "",
+            "other_end_pop_abbreviation": "",
+            "other_end_pop_name": "Singaren ",
+            "other_end_port": "",
+            "pop_abbreviation": "lon",
+            "pop_name": "London",
+            "port": "12",
+            "project": "GEANT2",
+            "service_type": "",
+            "status": "operational"
+        }
+    ]
+}

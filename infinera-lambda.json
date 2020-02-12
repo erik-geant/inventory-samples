@@ -1,0 +1,55 @@
+{
+    "geant-lambda": {
+        "id": 23661,
+        "name": "gen-mad_LHC_CERN-REDIRIS_07003",
+        "project": "LHC",
+        "status": "operational"
+    },
+    "locations": [
+        {
+            "a": {
+                "abbreviation": "gen",
+                "equipment": "GEN01-DTNX10-1",
+                "name": "Geneva"
+            },
+            "b": {
+                "abbreviation": "mad",
+                "equipment": "MAD01-DTNX4-1",
+                "name": "Madrid"
+            }
+        }
+    ],
+    "related-services": [
+        {
+            "circuit_type": "service",
+            "name": "gen-mad_LHC_CERN-REDIRIS_07003",
+            "project": "LHC",
+            "status": "operational"
+        }
+    ],
+    "services": [
+        {
+            "card_id": "tim-a-2-2",
+            "circuit_type": "path",
+            "equipment": "GEN01-DTNX10-1",
+            "id": 23743,
+            "interface_name": "1-A-2-2-3",
+            "logical_unit": "",
+            "manufacturer": "infinera",
+            "name": "gen-mad_LHC_CERN-REDIRIS_07003",
+            "other_end_card_id": "tim-a-3-1",
+            "other_end_equipment": "MAD01-DTNX4-1",
+            "other_end_interface_name": "1-A-3-1-4",
+            "other_end_logical_unit": "",
+            "other_end_pop_abbreviation": "mad",
+            "other_end_pop_name": "Madrid",
+            "other_end_port": "4",
+            "pop_abbreviation": "gen",
+            "pop_name": "Geneva",
+            "port": "3",
+            "project": "GEANT2",
+            "service_type": "",
+            "status": "operational"
+        }
+    ]
+}

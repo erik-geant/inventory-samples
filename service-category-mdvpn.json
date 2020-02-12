@@ -1,0 +1,210 @@
+[
+    {
+        "description": "SRV_MDVPN CUSTOMER BELNET AP3 SRF9927691 | MD VPN CoC - NREN",
+        "interface": "ae13.3",
+        "router": "mx1.ams.nl.geant.net",
+        "user": "Belnet"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER AMRES SRF9927501 |",
+        "interface": "ae16.10",
+        "router": "mx1.bud.hu.geant.net",
+        "user": "AMRES"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER RedIRIS SRF18011 | VPN-Proxy to NREN CE",
+        "interface": "ae15.947",
+        "router": "mx1.mar.fr.geant.net",
+        "user": "RedIRIS"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER REDIRIS AP1 SRF9930749 | MD VPN CoC-REDIRIS - ",
+        "interface": "ae15.2000",
+        "router": "mx1.mar.fr.geant.net",
+        "user": "RedIRIS"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER ULAKBIM SRF9939761 | VPN-Proxy to NREN CE",
+        "interface": "ae27.360",
+        "router": "mx1.fra.de.geant.net",
+        "user": "ULAKBIM"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER GARR AP1 SRF9928105 |",
+        "interface": "ae12.1001",
+        "router": "mx1.gen.ch.geant.net",
+        "user": "GARR"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER RENATER AP1 SRF9927517 | MD VPN CoC - RENATER",
+        "interface": "ae12.1382",
+        "router": "mx1.par.fr.geant.net",
+        "user": "PIONIER"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER SANET SRF9939441 | VPN-Proxy to NREN CE",
+        "interface": "ae13.422",
+        "router": "mx2.bra.sk.geant.net",
+        "user": "SANET"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER NORDUNET AP2 SRF9931035 | MD VPN CoC-NORDUNET",
+        "interface": "ae11.3003",
+        "router": "mx1.ham.de.geant.net",
+        "user": "NORDUnet"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER RENATER AP2 SRF9916022 | MD VPN CoC - RENATER",
+        "interface": "ae14.2061",
+        "router": "mx1.gen.ch.geant.net",
+        "user": "PIONIER"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER HEANET AP1 SRF9927825 | MD VPN CoC - HEAnet",
+        "interface": "ae10.30",
+        "router": "mx1.dub.ie.geant.net",
+        "user": "HEAnet"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER GARR SRF9928103 | MD VPN CoC #1 - GARR",
+        "interface": "ae10.1001",
+        "router": "mx1.mil2.it.geant.net",
+        "user": "GARR"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER DFN AP1 SRF9927505 |",
+        "interface": "ae11.112",
+        "router": "mx1.fra.de.geant.net",
+        "user": "DFN"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER CYNET SRF9938731 | VPN-Proxy to NREN CE AP_B",
+        "interface": "ae19.360",
+        "router": "mx1.lon.uk.geant.net",
+        "user": "CyNet"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER PIONIER AP2 SRF9928589 | MD VPN CoC #2 - PIONIER",
+        "interface": "ae12.20",
+        "router": "mx1.ham.de.geant.net",
+        "user": "PIONIER"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER RedIRIS SRF16039 | VPN-Proxy to NREN CE",
+        "interface": "ae15.946",
+        "router": "mx1.mar.fr.geant.net",
+        "user": "RedIRIS"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER SWITCH SRF16031 | VPN-Proxy to NREN CE",
+        "interface": "et-1/0/5.360",
+        "router": "mx1.gen.ch.geant.net",
+        "user": "SWITCH"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER HEANET AP2 SRF9927823 |",
+        "interface": "ae10.30",
+        "router": "mx1.dub2.ie.geant.net",
+        "user": "HEAnet"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER BREN AP1 SRF9928437 | MD VPN CoC - BREN",
+        "interface": "ge-0/2/0.2",
+        "router": "mx1.sof.bg.geant.net",
+        "user": "BREN"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER JANET SRF9943339 | VPN-Proxy to NREN CE",
+        "interface": "xe-3/2/6.961",
+        "router": "mx1.lon.uk.geant.net",
+        "user": "Jisc"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER CARNET AP2 SRF9927503 | MD VPN CoC - NREN",
+        "interface": "ae11.37",
+        "router": "mx2.zag.hr.geant.net",
+        "user": "CARNet"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER REDIRIS SRF9927547 | VPN-Proxy to NREN CE",
+        "interface": "ae15.198",
+        "router": "mx1.mar.fr.geant.net",
+        "user": "RedIRIS"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER CYNET SRF9938743 | VPN-Proxy to NREN CE AP_P",
+        "interface": "ae22.360",
+        "router": "mx1.fra.de.geant.net",
+        "user": "CyNet"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER HUNGARNET SRF9927673 |",
+        "interface": "ae10.911",
+        "router": "mx1.bud.hu.geant.net",
+        "user": "KIF\u00dc / Hungarnet"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER CESnet SRF17023 | PRACE VPN-Proxy to NREN CE",
+        "interface": "ae11.360",
+        "router": "mx1.pra.cz.geant.net",
+        "user": "CESNET"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER CESNET SRF9927549 | VPN-Proxy to NREN CE",
+        "interface": "ae11.601",
+        "router": "mx1.pra.cz.geant.net",
+        "user": "CESNET"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER FCCN AP_P SRF9939901 | MD VPN CoC - FCCN",
+        "interface": "ae10.1932",
+        "router": "mx2.lis.pt.geant.net",
+        "user": "FCT-FCCN"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER GRNET SRF9927655 |",
+        "interface": "xe-2/0/0.695",
+        "router": "mx2.ath.gr.geant.net",
+        "user": "GRNET"
+    },
+    {
+        "description": "SRV_MDVPN INFRASTRUCTURE MDVPN SRF9927525 | VPN-Proxy to GEANT PE for BGP-LU peering",
+        "interface": "xe-1/0/0.21",
+        "router": "mx1.mar.fr.geant.net"
+    },
+    {
+        "description": "SRV_MDVPN INFRASTRUCTURE MDVPN SRF??? | VPN-Proxy to GEANT PE for IBGP",
+        "interface": "xe-1/0/0.31",
+        "router": "mx1.mar.fr.geant.net"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER DFN AP2 SRF9927507 | ASN680 |",
+        "interface": "ae10.112",
+        "router": "mx1.ham.de.geant.net",
+        "user": "DFN"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER ARNES SRF9938283 | VPN-Proxy to NREN CE",
+        "interface": "ae21.360",
+        "router": "mx1.vie.at.geant.net",
+        "user": "ARNES"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER PIONIER SRF9927515 | MD VPN CoC - PIONIER",
+        "interface": "ae11.20",
+        "router": "mx1.poz.pl.geant.net",
+        "user": "PIONIER"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER SURFNET SRF38035 | VPN-Proxy to NREN CE",
+        "interface": "ae15.360",
+        "router": "mx1.ams.nl.geant.net",
+        "user": "SURFnet"
+    },
+    {
+        "description": "SRV_MDVPN CUSTOMER NORDUNET SRF9927513 |",
+        "interface": "et-5/0/5.3003",
+        "router": "mx1.lon.uk.geant.net",
+        "user": "NORDUnet"
+    }
+]
