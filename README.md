@@ -5,6 +5,8 @@
 * [Related Service Information](#related-service-information)
 * [Circuit Hierarchy Information](#circuit-hierarchy-information)
 * [Pop Information](#pop-information)
+* [List Of All Routers](#list-of-all-routers)
+* [Interface Information](#interface-information)
 
 
 # Service Information
@@ -40,6 +42,27 @@ Tightly related to the Related Service information. Currently this is used to bu
  * abbreviation
  * city
  * country
+ * country code
  * longitude
  * latitude
+
+# List Of All Routers
+ * hostname
+ * pop
+ * visibility: internal (e.g. an office/lab router) or externally visible (e.g. a backbone router)
+
+# List of All Services
+ * associated interfaces
+ * customer
+ * project
+ * service categories (e.g. mdvpn, lhcone, etc.)
+
+# Interface Information
+ * equipment
+ * physical info (rack/card/port)
+ * circuit info
+ * service/related-service info
+ * customer info
+
+
 
